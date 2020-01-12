@@ -3162,3 +3162,10 @@ h6 {
         transition: all 0.3s ease 0s; }
 
 /*# sourceMappingURL=main.css.map */
+/* Alif */
+i.icon-style-in-model{
+  color: #7c32ff;
+  padding-right: 10px;
+  font-size: 18px;
+  line-height: 1.5;
+}
