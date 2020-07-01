@@ -3169,3 +3169,6 @@ i.icon-style-in-model{
   font-size: 18px;
   line-height: 1.5;
 }
+.navbar-brand img {
+  margin: -25px 0;
+}
